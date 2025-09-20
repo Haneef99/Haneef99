@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Your Haneef
 
-<!--
-**Haneef99/Haneef99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Full-Stack Developer**
 
-Here are some ideas to get you started:
+I build scalable, user-focused applications from front to back.  
+Experienced across modern web technologies, I enjoy tackling challenges in every layer of the stack and continuously learning new tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Skills
+- **Frontend:** React, Angular, TypeScript, Webpack, Vite
+- **Backend:** Java, Elixir, Node, Python  
+- **Databases & DevOps:** PostgreSQL, MongoDB, Docker 
+- Quick to adapt to new frameworks and environments.
+
+---
+
+## 🌱 What I'm Exploring
+- Venturing into the **Artificial Intelligence** field—machine learning, deep learning, and AI-driven solutions.  
+- Expanding **freelance opportunities** to collaborate on exciting projects.
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haneef-shaik-3b8a1a202/)
+
+---
+
+✨ _Always curious, always building—let’s create something amazing together!_
